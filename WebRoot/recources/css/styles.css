@@ -1,0 +1,18 @@
+.articleTable{
+	border-collapse:collapse;
+	border: 1px solid #000000;
+}
+
+.articleTableHeader{
+	text-align:center;
+	background:none repeat scroll #B5B5B5;
+	border-bottom: 1px solid #000000;
+	padding:2px;
+}
+
+.articleTableOddRow{
+	
+	text-align:center;
+	background:none repeat scroll #FFFFFF;
+}
+
